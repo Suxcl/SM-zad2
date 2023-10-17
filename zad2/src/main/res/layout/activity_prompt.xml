@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PromptActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        android:text="@string/hint_question" />
+
+    <Button
+        android:id="@+id/hint_button"
+        android:padding="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hint_show_answer" />
+
+    <TextView
+        android:id="@+id/hint_textView"
+        android:padding="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@string/hint" />
+
+    <Button
+        android:id="@+id/button_get_home"
+        android:layout_width="wrap_content"
+        android:padding="30dp"
+        android:layout_height="wrap_content"
+        android:text="@string/get_home"
+        />
+</LinearLayout>

@@ -1,0 +1,46 @@
+ • Po pierwszym uruchomieniu aplikacji
+    - onCreate
+    - onStart
+    - onResume
+ • Po wciśnięciu przycisku Cofnij
+    - onPause
+    - onStop
+ • Po ponownym uruchomieniu aplikacji
+    - onStart
+    - onResume
+ • Po wciśnięciu przycisku ekranu głównego Home
+    - onPause
+    - onStop
+ • Po powrocie do aplikacji z listy ostatnio używanych aplikacj
+    - onStart
+    - onResume
+ • Po zmienie orientacji urządzenia
+    - onPause
+    - onStop
+    - onDestroy
+    - onCreate
+    - onStart
+    - onResume
+
+    Dodanie zapisywania stanu wartości
+
+ • Po pierwszym uruchomieniu aplikacji
+    - onCreate
+    - onStart
+    - onResume
+ • Po wciśnięciu przycisku Cofnij
+    - onPause
+    - onStop
+    - onSaveInstanceState
+ • Po ponownym uruchomieniu aplikacji -
+    - onStart
+    - onResume
+ • Po wciśnięciu przycisku ekranu głównego Home
+    - onPause
+    - onStop
+    - onSaveInstanceState
+ • Po powrocie do aplikacji z listy ostatnio używanych aplikacj -
+    - onStart
+    - onResume
+
+ 15 - Po stworzeniu nowej aktywności poprzez android studio zawsze plik "AndroidManifest.xml" jest aktualizowany

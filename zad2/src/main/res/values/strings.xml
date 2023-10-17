@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">zad2</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następnie</string>
+
+    <string name="q_activity">Activity to komponent aplikacji android</string>
+    <string name="q_version">Android 23 jest najnowszym androidem</string>
+    <string name="q_listener">Aplikacje dla systemu android są sterowane zderzeniowo</string>
+    <string name="q_resources">Zasoby aplikacji dla systemu Android definiuje sie plikach .xml</string>
+    <string name="q_find_resources">Do zasobów w aplikacji dla systemu Android odnosimy się po nazwach</string>
+    <string name="q_prawda">Czy liga chuliganów istnieje?</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="answer_text">Twój wynik:</string>
+    <string name="hint_question">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="hint_show_answer">Pokaż odpowedź</string>
+    <string name="hint"></string>
+    <string name="show_hint">Pokaż podpowiedź</string>
+    <string name="get_home">Powrót do menu</string>
+    <string name="answer_was_shown">Do pytania została wykorzystana podpowiedź</string>
+</resources>
